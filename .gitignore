@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+logs/
+__pycache__/
+data_imports/
+lightning_logs/
+.optuna_test/
+dataset_3.0.csv
